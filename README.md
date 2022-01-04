@@ -1,2 +1,2 @@
 # frontend-store
-Tienda de camiseta con HTML y CSS
+Tienda de camisetas con HTML y CSS
